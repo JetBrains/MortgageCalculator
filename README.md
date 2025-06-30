@@ -1,2 +1,1 @@
-# MortgageCalculator
-A sample project for the Java-Maven tutorial
+This is a sample Java-Maven project that is a part of the "Add Maven support to an existing Java project" tutorial.
